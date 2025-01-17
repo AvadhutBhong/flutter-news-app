@@ -38,6 +38,9 @@ dependencies:
   http:
   cached_network_image:
   flutter_dotenv:
+  shimmer:
+  google_fonts:
+  carousel_slider:
 
 dev_dependencies:
   flutter_test:
